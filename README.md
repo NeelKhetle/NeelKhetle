@@ -74,17 +74,6 @@ and deploy them through **usable dashboards**.
 
 ---
 
-## 📊 Language Usage
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelKhetle&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🚲 AI-Based Vehicle Health Monitoring System
