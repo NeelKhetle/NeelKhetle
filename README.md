@@ -86,8 +86,6 @@ and deploy them through **usable dashboards**.
 
 ## 📈 GitHub Stats
 
-## 📊 Language Usage
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelKhetle&layout=compact&theme=tokyonight"
