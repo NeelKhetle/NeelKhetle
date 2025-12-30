@@ -18,15 +18,13 @@
   <a href="https://github.com/NeelKhetle">
     <img src="https://img.shields.io/badge/GitHub-NeelKhetle-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/neel-khetle">
+  <a href="https://www.linkedin.com/in/neel-khetle">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:neelkhetle20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
-> 🔹 *Replace LinkedIn URL & email with your real ones*
 
 ---
 
@@ -43,7 +41,7 @@ and deploy them through **usable dashboards**.
 
 💡 Builder mindset  
 ⚙️ System-level thinking  
-📈 Recruiter-ready engineering
+📈 Recruiter-ready engineering  
 
 ---
 
@@ -79,7 +77,10 @@ and deploy them through **usable dashboards**.
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelKhetle&layout=compact&theme=react&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelKhetle&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -88,14 +89,16 @@ and deploy them through **usable dashboards**.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelKhetle&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=NeelKhetle&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeelKhetle&theme=react&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=NeelKhetle&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -137,25 +140,15 @@ and deploy them through **usable dashboards**.
 
 ---
 
-## 📬 Contact Panel (Interactive)
+## 📬 Contact
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>📧 Email</b><br/>
-        <a href="mailto:yourmail@gmail.com">
-          <img src="https://img.shields.io/badge/Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center">
-        <b>💼 LinkedIn</b><br/>
-        <a href="https://www.linkedin.com/">
-          <img src="https://img.shields.io/badge/View%20Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:neelkhetle20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-neelkhetle20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neel-khetle">
+    <img src="https://img.shields.io/badge/LinkedIn-Neel%20Khetle-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
