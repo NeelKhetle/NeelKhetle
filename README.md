@@ -18,10 +18,10 @@
   <a href="https://github.com/NeelKhetle">
     <img src="https://img.shields.io/badge/GitHub-NeelKhetle-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/neel-khetle">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:neelkhetle20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
